@@ -1,1 +1,3 @@
-# shopping-card
+# shopping-cart
+
+Java version: 11
